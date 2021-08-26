@@ -1,2 +1,2 @@
-# class_exercises
-Python and GIS Tutorial Exercises
+# Introduction To python
+This tutoroal is meant to give an introduction to python programming 
